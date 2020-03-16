@@ -104,7 +104,7 @@
  * @license   LGPL <http://www.gnu.org/licenses/lgpl.txt>
  * @link      http://www.ar-php.org 
  */ 
-class I18N_Arabic_KeySwap
+class KeySwap
 {
     // First 12 chars replaced by 1 Byte in Arabic keyboard 
     // while rest replaced by 2 Bytes UTF8
