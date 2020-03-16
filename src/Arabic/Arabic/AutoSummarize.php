@@ -152,7 +152,7 @@
  * @license   LGPL <http://www.gnu.org/licenses/lgpl.txt>
  * @link      http://www.ar-php.org 
  */ 
-class I18N_Arabic_AutoSummarize
+class AutoSummarize
 {
     private $_normalizeAlef       = array('أ','إ','آ');
     private $_normalizeDiacritics = array('َ','ً','ُ','ٌ','ِ','ٍ','ْ','ّ');
