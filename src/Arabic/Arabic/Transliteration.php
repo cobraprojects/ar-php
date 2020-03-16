@@ -104,7 +104,7 @@
  * @license   LGPL <http://www.gnu.org/licenses/lgpl.txt>
  * @link      http://www.ar-php.org 
  */ 
-class I18N_Arabic_Transliteration
+class Transliteration
 {
     private static $_arFinePatterns     = array("/'+/u", "/([\- ])'/u", '/(.)#/u');
     private static $_arFineReplacements = array("'", '\\1', "\\1'\\1");
