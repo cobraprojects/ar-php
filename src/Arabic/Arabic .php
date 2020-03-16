@@ -73,7 +73,7 @@
  * @license   LGPL <http://www.gnu.org/licenses/lgpl.txt>
  * @link      http://www.ar-php.org
  */  
-class I18N_Arabic
+class Arabic
 {
     private $_inputCharset  = 'utf-8';
     private $_outputCharset = 'utf-8';
