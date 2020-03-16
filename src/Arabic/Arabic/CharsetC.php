@@ -90,7 +90,7 @@
  * @license   LGPL <http://www.gnu.org/licenses/lgpl.txt>
  * @link      http://www.ar-php.org 
  */ 
-class I18N_Arabic_CharsetC
+class CharsetC
 {
     private $_utfStr  = '';
     private $_winStr  = '';
