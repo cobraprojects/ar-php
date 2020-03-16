@@ -238,8 +238,8 @@ class Arabic
         $this->myFile  = $library;
         //$this->myClass = 'I18N_Arabic_' . $library; Nasser
        // $class         = 'I18N_Arabic_' . $library; Nasser
-        $this->myClass = '\Johntaa\Arabic\Arabic\' . $library ;
-        $class         = '\Johntaa\Arabic\Arabic\' . $library;
+        $this->myClass = '\Johntaa\Arabic\Arabic\\' . $library ;
+        $class         = '\Johntaa\Arabic\Arabic\\' . $library;
 
         if (!$this->_useAutoload) {
 			 
