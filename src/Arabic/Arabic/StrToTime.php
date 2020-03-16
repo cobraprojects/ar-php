@@ -98,7 +98,7 @@
  * @license   LGPL <http://www.gnu.org/licenses/lgpl.txt>
  * @link      http://www.ar-php.org 
  */ 
-class I18N_Arabic_StrToTime
+class StrToTime
 {
     private static $_hj = array();
 
