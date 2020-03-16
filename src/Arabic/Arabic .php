@@ -1,4 +1,4 @@
-<?php   namespace Johntaa\I18N_Arabic;
+<?php   namespace Johntaa\Arabic;
 /**
  * ----------------------------------------------------------------------
  *  
