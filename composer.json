@@ -20,7 +20,7 @@
     }, 
     "autoload": {
         "psr-4": {
-            "Johntaa\\Arabic\\": "src/Arabic"
+            "Johntaa\\I18N_Arabic\\": "src/Arabic"
         }
     } 
   
