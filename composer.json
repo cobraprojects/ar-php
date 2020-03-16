@@ -19,8 +19,8 @@
         "php" : ">=5.4.0"
     }, 
     "autoload": {
-        "psr-4": {
-            "Johntaa\\I18N_Arabic\\": "src/Arabic"
+        "psr-0": {
+            "Johntaa\\Arabic\\": "src/Arabic"
         }
     } 
   
