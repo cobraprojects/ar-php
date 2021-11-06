@@ -9,12 +9,12 @@ $ composer require cobraprojects/ar-php
 ## Usage
 
     <?php
-    use CobraProjects\Arabic\Arabic;
+    	use CobraProjects\Arabic\Arabic;
 
     	$Arabic = new Arabic('Glyphs');
 
     	$text ="";
-    		$text = $Arabic->utf8Glyphs($text);
+    	$text = $Arabic->utf8Glyphs($text);
 
 ## Why I need it :
 
