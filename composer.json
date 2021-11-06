@@ -1,27 +1,25 @@
 {
-    "name": "johntaa/ar-php",
+    "name": "cobraprojects/ar-php",
     "description": "contribution to Ar-PHP Library, namespace-psr4 added",
-     
-    "homepage": "https://github.com/Johntaa/ar-php",
+    "homepage": "https://github.com/CobraProjects/ar-php",
     "license": "LGPL-3.0",
     "authors": [
-		{
-			"email":"khaled@ar-php.org",
-			"name":"Khaled Al-Sham'aa",
-			"homepage":"http://www.ar-php.org/"
-		},
         {
-            "name": ":johntaa",
-            "email": "fccffccffccf@yahoo.com" 
+            "email": "khaled@ar-php.org",
+            "name": "Khaled Al-Sham'aa",
+            "homepage": "http://www.ar-php.org/"
+        },
+        {
+            "name": ":cobraprojects",
+            "email": "fccffccffccf@yahoo.com"
         }
     ],
-    "require": { 
-        "php" : ">=5.4.0"
-    }, 
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "psr-4": {
-            "Johntaa\\Arabic\\": "src/Arabic"
+            "CobraProjects\\Arabic\\": "src/Arabic"
         }
-    } 
-  
+    }
 }

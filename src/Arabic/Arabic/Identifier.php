@@ -1,4 +1,4 @@
-<?php  namespace Johntaa\Arabic\Arabic;
+<?php  namespace CobraProjects\Arabic\Arabic;
 /**
  * ----------------------------------------------------------------------
  *  
