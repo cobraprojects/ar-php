@@ -1,6 +1,6 @@
 {
     "name": "cobraprojects/ar-php",
-    "description": "contribution to Ar-PHP Library, Laravel 8 Support",
+    "description": "contribution to Ar-PHP Library, Laravel 8 Support, psr-4",
     "homepage": "https://github.com/CobraProjects/ar-php",
     "license": "MIT",
     "authors": [
