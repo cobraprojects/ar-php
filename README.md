@@ -9,9 +9,9 @@ $ composer require cobraprojects/ar-php
 ## Usage
 
     <?php
-    use CobraProjects\Arabic\I18N_Arabic;
+    use CobraProjects\Arabic\Arabic;
 
-    	$Arabic = new I18N_Arabic('Glyphs');
+    	$Arabic = new Arabic('Glyphs');
 
     	$text ="";
     		$text = $Arabic->utf8Glyphs($text);
