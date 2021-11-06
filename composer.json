@@ -24,6 +24,10 @@
     },
     "minimum-stability": "dev",
     "extra": {
-        "laravel": {}
+        "laravel": {
+            "aliases": {
+                "Arabic": "CobraProjects\\Arabic\\Arabic"
+            }
+        }
     }
 }

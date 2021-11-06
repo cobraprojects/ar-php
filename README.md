@@ -2,8 +2,9 @@
 
 ## Install
 
-Add the "cobraprojects/ar-php": "dev-master" into the require section of your composer.json.
-Run composer install.
+```sh
+$ composer require cobraprojects/ar-php
+```
 
 ## Usage
 
