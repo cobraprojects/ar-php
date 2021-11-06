@@ -1,4 +1,4 @@
-# Contribution to Ar-PHP Library, namespace-psr4 added
+# Contribution to Ar-PHP Library, Laravel 8 Support
 
 ## Install
 

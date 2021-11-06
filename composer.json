@@ -1,25 +1,29 @@
 {
     "name": "cobraprojects/ar-php",
-    "description": "contribution to Ar-PHP Library, namespace-psr4 added",
+    "description": "contribution to Ar-PHP Library, Laravel 8 Support",
     "homepage": "https://github.com/CobraProjects/ar-php",
-    "license": "LGPL-3.0",
+    "license": "MIT",
     "authors": [
         {
-            "email": "khaled@ar-php.org",
-            "name": "Khaled Al-Sham'aa",
+            "email": "m.melouk@gmail.com",
+            "name": "Mohamed Melouk",
             "homepage": "http://www.ar-php.org/"
         },
         {
             "name": ":cobraprojects",
-            "email": "fccffccffccf@yahoo.com"
+            "email": "m.melouk@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=7.4.0"
     },
     "autoload": {
         "psr-4": {
             "CobraProjects\\Arabic\\": "src/Arabic"
         }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {}
     }
 }
