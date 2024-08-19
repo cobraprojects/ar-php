@@ -1,7 +1,7 @@
 {
-    "name": "cobraprojects/ar-php",
-    "description": "contribution to Ar-PHP Library, Laravel 8 Support, psr-4",
-    "homepage": "https://github.com/CobraProjects/ar-php",
+    "name": "xoex/persian-ar-php",
+    "description": "Persian fork of Ar-PHP Library, Laravel 8 Support, psr-4",
+    "homepage": "https://github.com/xoex/persian-ar-php",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,10 @@
         {
             "name": ":cobraprojects",
             "email": "m.melouk@gmail.com"
+        },
+        {
+            "name": "Mohammad Ali Sohrabi",
+            "email": "mohammadali.sohrabi@yahoo.com"
         }
     ],
     "require": {
@@ -19,14 +23,14 @@
     },
     "autoload": {
         "psr-4": {
-            "CobraProjects\\Arabic\\": "src/Arabic"
+            "CobraProjects\\Persian\\": "src/Persian"
         }
     },
     "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "aliases": {
-                "Arabic": "CobraProjects\\Arabic\\Arabic"
+                "Persian": "CobraProjects\\Persian\\Persian"
             }
         }
     }
